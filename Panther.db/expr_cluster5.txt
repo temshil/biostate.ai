@@ -1,0 +1,53 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	expr_cluster5.csv (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Molecular Function	Mus musculus - REFLIST (21836)	expr_cluster5.csv (871)	expr_cluster5.csv (expected)	expr_cluster5.csv (over/under)	expr_cluster5.csv (fold Enrichment)	expr_cluster5.csv (raw P-value)	expr_cluster5.csv (FDR)
+NADH dehydrogenase activity (GO:0003954)	9	5	.36	+	13.93	1.10E-05	2.89E-04
+electron transfer activity (GO:0009055)	8	3	.32	+	9.40	3.05E-03	4.50E-02
+delayed rectifier potassium channel activity (GO:0005251)	30	11	1.20	+	9.19	1.04E-08	1.57E-06
+iron-sulfur cluster binding (GO:0051536)	18	5	.72	+	6.96	5.54E-04	9.86E-03
+voltage-gated potassium channel activity (GO:0005249)	85	20	3.39	+	5.90	1.01E-10	6.13E-08
+oxidoreductase activity, acting on NAD(P)H (GO:0016651)	25	5	1.00	+	5.01	2.73E-03	4.34E-02
+hormone binding (GO:0042562)	25	5	1.00	+	5.01	2.73E-03	4.23E-02
+potassium channel activity (GO:0005267)	102	20	4.07	+	4.92	3.16E-09	9.56E-07
+voltage-gated monoatomic cation channel activity (GO:0022843)	115	21	4.59	+	4.58	4.94E-09	9.96E-07
+G protein-coupled amine receptor activity (GO:0008227)	46	8	1.83	+	4.36	4.21E-04	7.96E-03
+potassium ion transmembrane transporter activity (GO:0015079)	132	22	5.27	+	4.18	1.25E-08	1.51E-06
+neurotransmitter receptor activity (GO:0030594)	73	12	2.91	+	4.12	2.94E-05	7.12E-04
+voltage-gated monoatomic ion channel activity (GO:0005244)	132	21	5.27	+	3.99	6.14E-08	5.30E-06
+voltage-gated channel activity (GO:0022832)	132	21	5.27	+	3.99	6.14E-08	4.64E-06
+gated channel activity (GO:0022836)	238	27	9.49	+	2.84	1.09E-06	7.35E-05
+monoatomic cation channel activity (GO:0005261)	255	27	10.17	+	2.65	4.12E-06	1.92E-04
+metal ion binding (GO:0046872)	258	27	10.29	+	2.62	5.13E-06	1.83E-04
+cation binding (GO:0043169)	286	29	11.41	+	2.54	4.35E-06	1.75E-04
+calcium ion binding (GO:0005509)	154	15	6.14	+	2.44	1.30E-03	2.24E-02
+metal ion transmembrane transporter activity (GO:0046873)	320	31	12.76	+	2.43	7.28E-06	2.32E-04
+inorganic cation transmembrane transporter activity (GO:0022890)	375	36	14.96	+	2.41	1.37E-06	8.29E-05
+monoatomic ion channel activity (GO:0005216)	337	32	13.44	+	2.38	6.68E-06	2.24E-04
+passive transmembrane transporter activity (GO:0022803)	385	36	15.36	+	2.34	2.29E-06	1.26E-04
+channel activity (GO:0015267)	385	36	15.36	+	2.34	2.29E-06	1.15E-04
+monoatomic cation transmembrane transporter activity (GO:0008324)	408	36	16.27	+	2.21	8.96E-06	2.58E-04
+inorganic molecular entity transmembrane transporter activity (GO:0015318)	461	40	18.39	+	2.18	5.06E-06	1.91E-04
+monoatomic ion transmembrane transporter activity (GO:0015075)	503	42	20.06	+	2.09	7.65E-06	2.32E-04
+G protein-coupled receptor activity (GO:0004930)	469	37	18.71	+	1.98	1.02E-04	2.19E-03
+transmembrane transporter activity (GO:0022857)	823	61	32.83	+	1.86	4.20E-06	1.82E-04
+small molecule binding (GO:0036094)	717	51	28.60	+	1.78	8.63E-05	1.93E-03
+transporter activity (GO:0005215)	887	63	35.38	+	1.78	9.61E-06	2.64E-04
+ion binding (GO:0043167)	619	41	24.69	+	1.66	1.62E-03	2.65E-02
+transmembrane signaling receptor activity (GO:0004888)	1847	50	73.67	-	.68	2.78E-03	4.21E-02
+organic cyclic compound binding (GO:0097159)	2575	64	102.71	-	.62	1.33E-05	3.34E-04
+DNA binding (GO:0003677)	1480	34	59.03	-	.58	3.26E-04	6.37E-03
+transcription regulator activity (GO:0140110)	1410	32	56.24	-	.57	3.18E-04	6.42E-03
+nucleic acid binding (GO:0003676)	2180	43	86.96	-	.49	4.80E-08	4.84E-06
+RNA binding (GO:0003723)	654	8	26.09	-	.31	4.10E-05	9.54E-04
+protein serine/threonine kinase activity (GO:0004674)	330	3	13.16	-	.23	1.54E-03	2.58E-02
+catalytic activity, acting on a nucleic acid (GO:0140640)	358	3	14.28	-	.21	5.52E-04	1.01E-02
+antigen binding (GO:0003823)	227	0	9.05	-	 < 0.01	2.10E-04	4.39E-03

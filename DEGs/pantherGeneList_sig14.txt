@@ -1,0 +1,16 @@
+
+MOUSE|MGI=MGI=1929485|UniProtKB=Q9EQ80	Nif3l1	NIF3-like protein 1;Nif3l1;PTN000351116;orthologs	NIF3-LIKE PROTEIN 1 (PTHR13799:SF13)		Mus musculus
+MOUSE|MGI=MGI=2151136|UniProtKB=Q9JI18	Lrp1b	Low-density lipoprotein receptor-related protein 1B;Lrp1b;PTN000056443;orthologs	LOW-DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 1B (PTHR22722:SF5)		Mus musculus
+MOUSE|MGI=MGI=1917734|UniProtKB=Q762D5	Slc35d2	UDP-N-acetylglucosamine_UDP-glucose_GDP-mannose transporter;Slc35d2;PTN000123252;orthologs	UDP-N-ACETYLGLUCOSAMINE_UDP-GLUCOSE_GDP-MANNOSE TRANSPORTER (PTHR11132:SF262)	secondary carrier transporter(PC00258)	Mus musculus
+MOUSE|MGI=MGI=1338892|UniProtKB=Q08642	Padi2	Protein-arginine deiminase type-2;Padi2;PTN000089799;orthologs	PROTEIN-ARGININE DEIMINASE TYPE-2 (PTHR10837:SF12)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Mus musculus
+MOUSE|MGI=MGI=109296|UniProtKB=P52019	Sqle	Squalene monooxygenase;Sqle;PTN000089432;orthologs	SQUALENE MONOOXYGENASE (PTHR10835:SF0)	oxygenase(PC00177)	Mus musculus
+MOUSE|MGI=MGI=104960|UniProtKB=Q61333	Tnfaip2	Tumor necrosis factor alpha-induced protein 2;Tnfaip2;PTN000480244;orthologs	TUMOR NECROSIS FACTOR ALPHA-INDUCED PROTEIN 2 (PTHR21292:SF4)	membrane traffic protein(PC00150)	Mus musculus
+MOUSE|MGI=MGI=96298|UniProtKB=Q91ZJ9	Hyal1	Hyaluronidase-1;Hyal1;PTN000206085;orthologs	HYALURONIDASE-1 (PTHR11769:SF23)	glycosidase(PC00110)	Mus musculus
+MOUSE|MGI=MGI=102706|UniProtKB=P53798	Fdft1	Squalene synthase;Fdft1;PTN000179309;orthologs	SQUALENE SYNTHASE (PTHR11626:SF2)	transferase(PC00220)	Mus musculus
+MOUSE|MGI=MGI=2443542|UniProtKB=Q3UGP9	Lrrc58	Leucine-rich repeat-containing protein 58;Lrrc58;PTN002546599;orthologs	LEUCINE-RICH REPEAT-CONTAINING PROTEIN 58 (PTHR45752:SF13)	scaffold/adaptor protein(PC00226)	Mus musculus
+MOUSE|MGI=MGI=106040|UniProtKB=Q8K0C4	Cyp51	Lanosterol 14-alpha demethylase;Cyp51a1;PTN000669486;orthologs	LANOSTEROL 14-ALPHA DEMETHYLASE (PTHR24286:SF24)	oxygenase(PC00177)	Mus musculus
+MOUSE|MGI=MGI=1913484|UniProtKB=Q9CRA4	Msmo1	Methylsterol monooxygenase 1;Msmo1;PTN000221365;orthologs	METHYLSTEROL MONOOXYGENASE 1 (PTHR11863:SF225)	oxidase(PC00175)	Mus musculus
+MOUSE|MGI=MGI=2441741|UniProtKB=Q8VCC8	Rapgef3	Rap guanine nucleotide exchange factor 3;Rapgef3;PTN000561171;orthologs	RAP GUANINE NUCLEOTIDE EXCHANGE FACTOR 3 (PTHR23113:SF24)	guanyl-nucleotide exchange factor(PC00113)	Mus musculus
+MOUSE|MGI=MGI=104888|UniProtKB=Q920E5	Fdps	Farnesyl pyrophosphate synthase;Fdps;PTN000162970;orthologs	FARNESYL PYROPHOSPHATE SYNTHASE (PTHR11525:SF0)	acyltransferase(PC00042)	Mus musculus
+MOUSE|MGI=MGI=1349762|UniProtKB=Q62188	Dpysl3	Dihydropyrimidinase-related protein 3;Dpysl3;PTN000182494;orthologs	DIHYDROPYRIMIDINASE-RELATED PROTEIN 3 (PTHR11647:SF57)	hydrolase(PC00121)	Mus musculus
+MOUSE|MGI=MGI=2444300|UniProtKB=Q80Y19	Arhgap11a	Rho GTPase-activating protein 11A;Arhgap11a;PTN000402541;orthologs	RHO GTPASE-ACTIVATING PROTEIN 11A (PTHR15670:SF4)	GTPase-activating protein(PC00257)	Mus musculus

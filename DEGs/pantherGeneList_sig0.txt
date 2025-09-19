@@ -1,0 +1,31 @@
+
+MOUSE|MGI=MGI=107592|UniProtKB=Q8JZK9	Hmgcs1	Hydroxymethylglutaryl-CoA synthase, cytoplasmic;Hmgcs1;PTN000222458;orthologs	HYDROXYMETHYLGLUTARYL-COA SYNTHASE, CYTOPLASMIC (PTHR43323:SF4)		Mus musculus
+MOUSE|MGI=MGI=97597|UniProtKB=P63318	Prkcg	Protein kinase C gamma type;Prkcg;PTN000684188;orthologs	PROTEIN KINASE C GAMMA TYPE (PTHR24356:SF162)	non-receptor serine/threonine protein kinase(PC00167)	Mus musculus
+MOUSE|MGI=MGI=1915615|UniProtKB=Q91V41	Rab14	Ras-related protein Rab-14;Rab14;PTN000633952;orthologs	RAS-RELATED PROTEIN RAB-14 (PTHR24073:SF185)	small GTPase(PC00208)	Mus musculus
+MOUSE|MGI=MGI=1349390|UniProtKB=Q9QYX7	Pclo	Protein piccolo;Pclo;PTN000364358;orthologs	PROTEIN PICCOLO (PTHR14113:SF6)		Mus musculus
+MOUSE|MGI=MGI=98310|UniProtKB=Q60698	Ski	Ski oncogene;Ski;PTN000000400;orthologs	SKI ONCOGENE (PTHR10005:SF15)		Mus musculus
+MOUSE|MGI=MGI=2151136|UniProtKB=Q9JI18	Lrp1b	Low-density lipoprotein receptor-related protein 1B;Lrp1b;PTN000056443;orthologs	LOW-DENSITY LIPOPROTEIN RECEPTOR-RELATED PROTEIN 1B (PTHR22722:SF5)		Mus musculus
+MOUSE|MGI=MGI=1338892|UniProtKB=Q08642	Padi2	Protein-arginine deiminase type-2;Padi2;PTN000089799;orthologs	PROTEIN-ARGININE DEIMINASE TYPE-2 (PTHR10837:SF12)	chromatin/chromatin-binding, or -regulatory protein(PC00077)	Mus musculus
+MOUSE|MGI=MGI=1920198|UniProtKB=Q7TQD2	Tppp	Tubulin polymerization-promoting protein;Tppp;PTN000309436;orthologs	TUBULIN POLYMERIZATION-PROMOTING PROTEIN (PTHR12932:SF18)	non-motor microtubule binding protein(PC00166)	Mus musculus
+MOUSE|MGI=MGI=1354952|UniProtKB=Q9QUN9	Dkk3	Dickkopf-related protein 3;Dkk3;PTN000787775;orthologs	DICKKOPF-RELATED PROTEIN 3 (PTHR12113:SF8)	membrane trafficking regulatory protein(PC00151)	Mus musculus
+MOUSE|MGI=MGI=109296|UniProtKB=P52019	Sqle	Squalene monooxygenase;Sqle;PTN000089432;orthologs	SQUALENE MONOOXYGENASE (PTHR10835:SF0)	oxygenase(PC00177)	Mus musculus
+MOUSE|MGI=MGI=2442264|UniProtKB=P58044	Idi1	Isopentenyl-diphosphate Delta-isomerase 1;Idi1;PTN000094462;orthologs	ISOPENTENYL-DIPHOSPHATE DELTA-ISOMERASE 1 (PTHR10885:SF5)	isomerase(PC00135)	Mus musculus
+MOUSE|MGI=MGI=2687278|UniProtKB=Q8BMU0	Zfp523	Zinc finger protein 76;Znf76;PTN002396852;orthologs	ZINC FINGER PROTEIN 76 (PTHR19818:SF151)	C2H2 zinc finger transcription factor(PC00248)	Mus musculus
+MOUSE|MGI=MGI=107624|UniProtKB=Q9R008	Mvk	Mevalonate kinase;Mvk;PTN000048572;orthologs	MEVALONATE KINASE (PTHR43290:SF2)	carbohydrate kinase(PC00065)	Mus musculus
+MOUSE|MGI=MGI=102706|UniProtKB=P53798	Fdft1	Squalene synthase;Fdft1;PTN000179309;orthologs	SQUALENE SYNTHASE (PTHR11626:SF2)	transferase(PC00220)	Mus musculus
+MOUSE|MGI=MGI=1923206|UniProtKB=Q8BTI8	Srrm2	Serine_arginine repetitive matrix protein 2;Srrm2;PTN000789074;orthologs	SERINE_ARGININE REPETITIVE MATRIX PROTEIN 2 (PTHR34755:SF3)		Mus musculus
+MOUSE|MGI=MGI=1933397|UniProtKB=Q9EQY5	Fcrl2	Fc receptor-like S, scavenger receptor;Fcrl2;PTN000159532;orthologs	FC RECEPTOR-LIKE S, SCAVENGER RECEPTOR (PTHR11481:SF69)	immunoglobulin receptor superfamily(PC00124)	Mus musculus
+MOUSE|MGI=MGI=106040|UniProtKB=Q8K0C4	Cyp51	Lanosterol 14-alpha demethylase;Cyp51a1;PTN000669486;orthologs	LANOSTEROL 14-ALPHA DEMETHYLASE (PTHR24286:SF24)	oxygenase(PC00177)	Mus musculus
+MOUSE|MGI=MGI=1349471|UniProtKB=Q9QYJ1	St6galnac5	Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5;St6galnac5;PTN000346114;orthologs	ALPHA-N-ACETYLGALACTOSAMINIDE ALPHA-2,6-SIALYLTRANSFERASE 5 (PTHR45906:SF5)		Mus musculus
+MOUSE|MGI=MGI=1913484|UniProtKB=Q9CRA4	Msmo1	Methylsterol monooxygenase 1;Msmo1;PTN000221365;orthologs	METHYLSTEROL MONOOXYGENASE 1 (PTHR11863:SF225)	oxidase(PC00175)	Mus musculus
+MOUSE|MGI=MGI=95697|UniProtKB=P03995	Gfap	Glial fibrillary acidic protein;Gfap;PTN000581574;orthologs	GLIAL FIBRILLARY ACIDIC PROTEIN (PTHR45652:SF9)	intermediate filament(PC00129)	Mus musculus
+MOUSE|MGI=MGI=3580016|UniProtKB=Q3UHD9	Agap2	Arf-GAP with GTPase, ANK repeat and PH domain-containing protein 2;Agap2;PTN000572028;orthologs	ARF-GAP WITH GTPASE, ANK REPEAT AND PH DOMAIN-CONTAINING PROTEIN 2 (PTHR45819:SF3)	GTPase-activating protein(PC00257)	Mus musculus
+MOUSE|MGI=MGI=104888|UniProtKB=Q920E5	Fdps	Farnesyl pyrophosphate synthase;Fdps;PTN000162970;orthologs	FARNESYL PYROPHOSPHATE SYNTHASE (PTHR11525:SF0)	acyltransferase(PC00042)	Mus musculus
+MOUSE|MGI=MGI=2385695|UniProtKB=Q921Q7	Rin1	Ras and Rab interactor 1;Rin1;PTN000559551;orthologs	RAS AND RAB INTERACTOR 1 (PTHR23101:SF62)	guanyl-nucleotide exchange factor(PC00113)	Mus musculus
+MOUSE|MGI=MGI=1922004|UniProtKB=Q8VCH6	Dhcr24	Delta(24)-sterol reductase;Dhcr24;PTN000085822;orthologs	DELTA(24)-STEROL REDUCTASE (PTHR10801:SF0)	reductase(PC00198)	Mus musculus
+MOUSE|MGI=MGI=1345184|UniProtKB=Q9WTS5	Tenm2	Teneurin-2;Tenm2;PTN000131560;orthologs	TENEURIN-2 (PTHR11219:SF8)		Mus musculus
+MOUSE|MGI=MGI=3576487|UniProtKB=Q5DRQ8	Fcrl2	Fc receptor-like B;Fcrlb;PTN000159474;orthologs	FC RECEPTOR-LIKE B (PTHR11481:SF94)	immunoglobulin receptor superfamily(PC00124)	Mus musculus
+MOUSE|MGI=MGI=96413|UniProtKB=O88844	Idh1	Isocitrate dehydrogenase [NADP] cytoplasmic;Idh1;PTN000214340;orthologs	ISOCITRATE DEHYDROGENASE [NADP], MITOCHONDRIAL (PTHR11822:SF21)	dehydrogenase(PC00092)	Mus musculus
+MOUSE|MGI=MGI=95304|UniProtKB=Q8BGD9	Eif4b	Eukaryotic translation initiation factor 4B;Eif4b;PTN000579876;orthologs	EUKARYOTIC TRANSLATION INITIATION FACTOR 4B (PTHR23236:SF2)	translation initiation factor(PC00224)	Mus musculus
+MOUSE|MGI=MGI=3586824|UniProtKB=Q8BYG9	Epha10	Ephrin type-A receptor 10;Epha10;PTN000700223;orthologs	EPHRIN TYPE-A RECEPTOR 10 (PTHR46877:SF16)	transmembrane signal receptor(PC00197)	Mus musculus
+MOUSE|MGI=MGI=2179327|UniProtKB=Q99JF5	Mvd	Diphosphomevalonate decarboxylase;Mvd;PTN000104619;orthologs	DIPHOSPHOMEVALONATE DECARBOXYLASE (PTHR10977:SF3)	decarboxylase(PC00089)	Mus musculus

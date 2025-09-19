@@ -1,0 +1,16 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	expr_cluster4.csv (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Molecular Function	Mus musculus - REFLIST (21836)	expr_cluster4.csv (870)	expr_cluster4.csv (expected)	expr_cluster4.csv (over/under)	expr_cluster4.csv (fold Enrichment)	expr_cluster4.csv (raw P-value)	expr_cluster4.csv (FDR)
+transmembrane signaling receptor activity (GO:0004888)	1847	44	73.59	-	.60	1.10E-04	2.22E-02
+signaling receptor activity (GO:0038023)	1973	45	78.61	-	.57	1.71E-05	1.03E-02
+molecular transducer activity (GO:0060089)	1973	45	78.61	-	.57	1.71E-05	5.17E-03
+antigen binding (GO:0003823)	227	0	9.04	-	 < 0.01	2.09E-04	3.17E-02

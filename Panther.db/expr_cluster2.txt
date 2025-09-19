@@ -1,0 +1,14 @@
+
+
+
+
+
+Analysis Type:	PANTHER Overrepresentation Test (Released 20240807)
+Annotation Version and Release Date:	PANTHER version 19.0 Released 2024-06-20
+Analyzed List:	expr_cluster2.csv (Mus musculus)
+Reference List:	Mus musculus (all genes in database)
+Test Type:	FISHER
+Correction:	FDR
+PANTHER GO-Slim Molecular Function	Mus musculus - REFLIST (21836)	expr_cluster2.csv (399)	expr_cluster2.csv (expected)	expr_cluster2.csv (over/under)	expr_cluster2.csv (fold Enrichment)	expr_cluster2.csv (raw P-value)	expr_cluster2.csv (FDR)
+nucleosome binding (GO:0031491)	74	9	1.35	+	6.66	8.04E-06	4.86E-03
+chromatin DNA binding (GO:0031490)	82	9	1.50	+	6.01	1.87E-05	5.67E-03

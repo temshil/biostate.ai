@@ -1,0 +1,23 @@
+
+MOUSE|MGI=MGI=3704427|UniProtKB=L7N2B6	Gm10128	Predicted gene 10128;Gm10128;PTN008577478;orthologs	2610042L04RIK PROTEIN-RELATED (PTHR21558:SF12)		Mus musculus
+MOUSE|MGI=MGI=1349390|UniProtKB=Q9QYX7	Pclo	Protein piccolo;Pclo;PTN000364358;orthologs	PROTEIN PICCOLO (PTHR14113:SF6)		Mus musculus
+MOUSE|MGI=MGI=1917734|UniProtKB=Q762D5	Slc35d2	UDP-N-acetylglucosamine_UDP-glucose_GDP-mannose transporter;Slc35d2;PTN000123252;orthologs	UDP-N-ACETYLGLUCOSAMINE_UDP-GLUCOSE_GDP-MANNOSE TRANSPORTER (PTHR11132:SF262)	secondary carrier transporter(PC00258)	Mus musculus
+MOUSE|MGI=MGI=1890648|UniProtKB=Q8BPY9	Fignl1	Fidgetin-like protein 1;Fignl1;PTN000553708;orthologs	DYNEIN REGULATORY COMPLEX PROTEIN 11-RELATED (PTHR23074:SF75)	non-motor microtubule binding protein(PC00166)	Mus musculus
+MOUSE|MGI=MGI=109296|UniProtKB=P52019	Sqle	Squalene monooxygenase;Sqle;PTN000089432;orthologs	SQUALENE MONOOXYGENASE (PTHR10835:SF0)	oxygenase(PC00177)	Mus musculus
+MOUSE|MGI=MGI=2442264|UniProtKB=P58044	Idi1	Isopentenyl-diphosphate Delta-isomerase 1;Idi1;PTN000094462;orthologs	ISOPENTENYL-DIPHOSPHATE DELTA-ISOMERASE 1 (PTHR10885:SF5)	isomerase(PC00135)	Mus musculus
+MOUSE|MGI=MGI=107624|UniProtKB=Q9R008	Mvk	Mevalonate kinase;Mvk;PTN000048572;orthologs	MEVALONATE KINASE (PTHR43290:SF2)	carbohydrate kinase(PC00065)	Mus musculus
+MOUSE|MGI=MGI=2685304|UniProtKB=Q14B48	Itprid1	Protein ITPRID1;Itprid1;PTN000425984;orthologs	PROTEIN ITPRID1 (PTHR17469:SF14)		Mus musculus
+MOUSE|MGI=MGI=102706|UniProtKB=P53798	Fdft1	Squalene synthase;Fdft1;PTN000179309;orthologs	SQUALENE SYNTHASE (PTHR11626:SF2)	transferase(PC00220)	Mus musculus
+MOUSE|MGI=MGI=99542|UniProtKB=Q61069	Usf1	Upstream stimulatory factor 1;Usf1;PTN000285962;orthologs	UPSTREAM STIMULATORY FACTOR 1 (PTHR46117:SF1)	basic helix-loop-helix transcription factor(PC00055)	Mus musculus
+MOUSE|MGI=MGI=2443542|UniProtKB=Q3UGP9	Lrrc58	Leucine-rich repeat-containing protein 58;Lrrc58;PTN002546599;orthologs	LEUCINE-RICH REPEAT-CONTAINING PROTEIN 58 (PTHR45752:SF13)	scaffold/adaptor protein(PC00226)	Mus musculus
+MOUSE|MGI=MGI=1933397|UniProtKB=Q9EQY5	Fcrl2	Fc receptor-like S, scavenger receptor;Fcrl2;PTN000159532;orthologs	FC RECEPTOR-LIKE S, SCAVENGER RECEPTOR (PTHR11481:SF69)	immunoglobulin receptor superfamily(PC00124)	Mus musculus
+MOUSE|MGI=MGI=104888|UniProtKB=Q920E5	Fdps	Farnesyl pyrophosphate synthase;Fdps;PTN000162970;orthologs	FARNESYL PYROPHOSPHATE SYNTHASE (PTHR11525:SF0)	acyltransferase(PC00042)	Mus musculus
+MOUSE|MGI=MGI=2154441|UniProtKB=Q8BK35	Nop53	Ribosome biogenesis protein NOP53;Nop53;PTN000368206;orthologs	RIBOSOME BIOGENESIS PROTEIN NOP53 (PTHR14211:SF7)		Mus musculus
+MOUSE|MGI=MGI=3576487|UniProtKB=Q5DRQ8	Fcrl2	Fc receptor-like B;Fcrlb;PTN000159474;orthologs	FC RECEPTOR-LIKE B (PTHR11481:SF94)	immunoglobulin receptor superfamily(PC00124)	Mus musculus
+MOUSE|MGI=MGI=1925027|UniProtKB=Q8HWA3	Ulbp1	UL16 binding protein 1;Ulbp1;PTN001445015;orthologs	UL16-BINDING PROTEIN 1 (PTHR16675:SF268)	major histocompatibility complex protein(PC00149)	Mus musculus
+MOUSE|MGI=MGI=3586824|UniProtKB=Q8BYG9	Epha10	Ephrin type-A receptor 10;Epha10;PTN000700223;orthologs	EPHRIN TYPE-A RECEPTOR 10 (PTHR46877:SF16)	transmembrane signal receptor(PC00197)	Mus musculus
+MOUSE|MGI=MGI=2179327|UniProtKB=Q99JF5	Mvd	Diphosphomevalonate decarboxylase;Mvd;PTN000104619;orthologs	DIPHOSPHOMEVALONATE DECARBOXYLASE (PTHR10977:SF3)	decarboxylase(PC00089)	Mus musculus
+MOUSE|MGI=MGI=5011595|UniProtKB=A0A140LJC7	Gm19410	Predicted gene, 19410;Gm19410;PTN002778321;orthologs	CD320 ANTIGEN (PTHR24270:SF52)	apolipoprotein(PC00052)	Mus musculus
+MOUSE|MGI=MGI=1858430|UniProtKB=P59222	Scarf2	Scavenger receptor class F member 2;Scarf2;PTN000620991;orthologs	SCAVENGER RECEPTOR CLASS F MEMBER 2 (PTHR24043:SF5)	membrane traffic protein(PC00150)	Mus musculus
+MOUSE|MGI=MGI=1099438|UniProtKB=Q9R1J0	Nsdhl	Sterol-4-alpha-carboxylate 3-dehydrogenase, decarboxylating;Nsdhl;PTN000041317;orthologs	STEROL-4-ALPHA-CARBOXYLATE 3-DEHYDROGENASE, DECARBOXYLATING (PTHR10366:SF564)	dehydratase(PC00091)	Mus musculus
+MOUSE|MGI=MGI=1349430|UniProtKB=Q9Z0N2	Eif2s3y	Eukaryotic translation initiation factor 2 subunit 3, Y-linked;Eif2s3y;PTN000562184;orthologs	EUKARYOTIC TRANSLATION INITIATION FACTOR 2 SUBUNIT 3, Y-LINKED (PTHR42854:SF4)	translation initiation factor(PC00224)	Mus musculus
