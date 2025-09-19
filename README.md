@@ -26,7 +26,7 @@ For differential expression (DE) analysis, I included batch, genotype, and timep
 ---
 
 ### 3.2 Batch Correction and Surrogate Variables
-I then tried correcting for batch effect and library size using surrogate variables and the `ComBat_seq` function from the `sva` (v3.56.0) R package. The PCA plot for `ComBat_seq` looked promising: compared to the default `edgeR` pipeline, P0 samples clustered together. The top two components explaining variability, however, remained unchanged. 
+I then tried correcting for batch effect and library size using surrogate variables and the `ComBat_seq` function from the `sva` (v3.56.0) R package. The PCA plot for `ComBat_seq` looked promising: compared to the default `edgeR` pipeline, P0 samples clustered together, although the other timepoints appear more dispersed. The top two components explaining variability, however, remained unchanged. 
 
 <p align="center">
 <img src="Figures/pca_combat.png" width="750">
